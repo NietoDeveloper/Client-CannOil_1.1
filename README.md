@@ -11,7 +11,7 @@ React: Frontend library for dynamic UI
 Tailwind CSS: Utility-first CSS framework
 Vite: Fast frontend build tool
 
-Features
+## Features
 
 Responsive and modern UI
 Product catalog display
