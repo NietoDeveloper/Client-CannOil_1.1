@@ -40,7 +40,9 @@ Browse products and test the cart functionality.
 ## Contributing
 
 Fork the repo and submit pull requests for contributions.
-License
+
+## License
+
 MIT License
-Contact
+
 Developed by Manuel Nieto, Software Developer. Connect via GitHub.
