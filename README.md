@@ -45,4 +45,4 @@ Fork the repo and submit pull requests for contributions.
 
 MIT License
 
-Developed by Manuel Nieto, Software Developer. Connect via GitHub.
+### Developed by Manuel Nieto, NietoDeveloper. Connect via GitHub.
