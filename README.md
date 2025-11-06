@@ -18,9 +18,10 @@ Product catalog display
 Shopping cart integration
 Smooth user interactions
 
-Installation
+## Installation
 
-Clone the repository:git clone https://github.com/NietoDeveloper/Cannoil-Ejemplo1.git
+Clone the repository:git clone 
+
 
 
 Navigate to the client directory:cd Cannoil-Ejemplo1/client
