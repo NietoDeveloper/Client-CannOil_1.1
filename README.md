@@ -37,7 +37,8 @@ Start the development server:npm run dev
 Visit http://localhost:5173 in your browser.
 Browse products and test the cart functionality.
 
-Contributing
+## Contributing
+
 Fork the repo and submit pull requests for contributions.
 License
 MIT License
