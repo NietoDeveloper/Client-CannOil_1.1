@@ -32,9 +32,7 @@ Install dependencies:npm install
 
 Start the development server:npm run dev
 
-
-
-Usage
+## Usage
 
 Visit http://localhost:5173 in your browser.
 Browse products and test the cart functionality.
