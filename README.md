@@ -7,10 +7,5 @@ This is the frontend for Cannoil E-Commerce, a model online store for health pro
 
 Fork the repo and submit pull requests for contributions.
 
-## License
-
-MIT License
-
-### Developed by Manuel Nieto, NietoDeveloper. Connect via GitHub.
 
 ### 2024
