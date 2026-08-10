@@ -4,17 +4,6 @@
 
 This is the frontend for Cannoil E-Commerce, a model online store for health products. Built by Manuel Nieto, Software Developer, in 2024, this client-side application showcases a modern, responsive UI.
 
-## Installation
-
-Clone the repository:git clone 
-<https://github.com/NietoDeveloper/Client-CannOil_1.1>
-
-
-Navigate to the client directory:cd Cannoil-Ejemplo1/client
-
-
-Install dependencies:npm install
-
 
 Start the development server:npm run dev
 
