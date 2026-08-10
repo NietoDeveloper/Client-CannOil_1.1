@@ -4,14 +4,7 @@
 
 This is the frontend for Cannoil E-Commerce, a model online store for health products. Built by Manuel Nieto, Software Developer, in 2024, this client-side application showcases a modern, responsive UI.
 
-## Technologies
 
-Node.js: Runtime for development tools
-React: Frontend library for dynamic UI
-Tailwind CSS: Utility-first CSS framework
-Vite: Fast frontend build tool
-
-## Features
 
 Responsive and modern UI
 Product catalog display
